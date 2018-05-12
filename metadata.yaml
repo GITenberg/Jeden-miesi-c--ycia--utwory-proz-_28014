@@ -1,0 +1,30 @@
+_repo: Jeden-miesi-c--ycia--utwory-proz-_28014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bruner, Ludwik
+    aliases:
+    - Sten, Jan
+    - Bruner, L. (Ludwik)
+    birthdate: 1871
+    deathdate: 1913
+    gutenberg_agent_id: '33076'
+    url: http://www.gutenberg.org/2009/agents/33076
+description: ''
+gutenberg_issued: '2009-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28014'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+tableOfContents: Jeden miesiąc życia -- Hamlet -- Przysięgły -- Spotkanie -- W pełnym
+  słońcu -- Pierwszy wiersz -- Trzy dusze.
+title: 'Jeden miesiąc życia: utwory prozą'
+url: http://www.gutenberg.org/ebooks/28014
